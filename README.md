@@ -45,7 +45,7 @@ bc1qxamq7gwpxpu5e0ekw7h49wwsy3a0vv7xdqtvxz
 
 当然，你也可以给我一些比特币（BTC），让我体验一下收到陌生人赠予的钱的喜悦以及一夜暴富的刺激。当然，如果你愿意赠送，完全是自愿的，我也不会退还。我只接受比特币（BTC）。以下是我的地址，仅支持 SegWit 地址：👇
 
-bc1qxamq7gwpxpu5e0ekw7h49wwsy3a0vv7xdqtvxz
+bc1qk0wxq3dhy5rfyjzqqa6l4k26p4cggrr2cdcrtr
 
 ## 📄 License | 许可证
 
